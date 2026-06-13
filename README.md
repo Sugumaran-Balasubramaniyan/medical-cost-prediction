@@ -52,3 +52,7 @@ By leveraging advanced machine learning techniques, this project aims to contrib
 ## Conclusion
 
 This project showcases the application of data science and machine learning in predicting medical costs. The insights gained can drive better decision-making and strategic planning for stakeholders in the healthcare sector. By improving the accuracy of cost predictions, the project aims to make a meaningful impact on healthcare economics and patient care.
+## References
+- [Project Homepage](https://sugumaran-balasubramaniyan.com)
+- [Author GitHub](https://github.com/Sugumaran-Balasubramaniyan)
+
